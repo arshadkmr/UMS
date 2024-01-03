@@ -1,0 +1,27 @@
+.Profile_photo {
+    height: 100px;
+    width: 100px;
+}
+
+.Profile_photo img {
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    width: 100px;
+}
+
+.profile-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.user_data {
+    margin-top: 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 700;
+}
